@@ -68,7 +68,7 @@ If you get stuck or have any questions, don't hesitate to reach out! I'm always 
 **Contact Me**:
 - Instagram: [mhmt.x0](https://www.instagram.com/mhmt.x0)
 - Email: [mxhmetxd@gmail.com](mailto:mxhmetxd@gmail.com)
-- GitHub: [My GitHub Profile](https://github.com/your-github-profile)
+- GitHub: [My GitHub Profile](https://github.com/mhmtx4)
 
 ---
 
@@ -92,7 +92,7 @@ The course progresses **step-by-step**, starting from scratch and moving towards
 5. **Check back daily** for new lessons! 📅
 
 ```bash
-git clone https://github.com/your-github-repo-link.git
+git clone https://github.com/mhmtx4/Python-Programming-for-Data-Science.git
 ```
 
 ---
@@ -112,7 +112,7 @@ These projects will challenge your Python skills and enhance your problem-solvin
 
 # 🎉 Veri Bilimi için Python Programlama Kursuna Hoş Geldiniz!
 
-👋 Merhaba ve **Veri Bilimi** odaklı, herkesin takip edebileceği **Python programlama kursuna** hoş geldiniz! Bu kurs, hem yeni başlayanlar hem de orta seviyedeki öğreniciler için tasarlanmış olup, Python programlama diline dair temel ve ileri düzey bilgileri adım adım öğrenmenizi sağlayacaktır.
+👋 **Veri Bilimi** odaklı, herkesin takip edebileceği **Python programlama kursuna** hoş geldiniz! Bu kurs, hem yeni başlayanlar hem de orta seviyedeki öğreniciler için tasarlanmış olup, Python programlama diline dair temel ve ileri düzey bilgileri adım adım öğrenmenizi sağlayacaktır.
 
 ## 🚀 Neler Öğreneceksiniz:
 Bu kursu tamamladığınızda aşağıdaki konularda güçlü bir bilgi birikimine sahip olacaksınız:
@@ -133,5 +133,98 @@ Her ders, adım adım ilerleyerek, her seviyede öğrencinin kolayca anlayabilec
 
 Bu kurs, **uzun vadeli** olacak şekilde tasarlandı ve her gün yeni dersler eklenerek sürekli güncellenecek. **Her ders, bir öncekinin üzerine inşa edilerek**, başlangıç seviyesinden daha ileri seviyeye doğru ilerler. Öğrendiğiniz her konuyu pekiştirmek için pratik alıştırmalar ve mini projeler sunulacak.
 
+### 🗂️ Bekleyebileceğiniz İçerik:
+
+| Gün | Ders | Bağlantı |
+| --- | ------ | ---- |
+| Gün 1 | Python Çalışma Ortamını Ayarlama | [🔗 ders1.py](path-to-ders1) |
+| Gün 2 | Python Temelleri | [🔗 ders2.py](path-to-ders2) |
+| Gün 3 | Veri Yapıları | [🔗 ders3.py](path-to-ders3) |
+| Gün 4 | Sayılarla Çalışma | [🔗 ders4.py](path-to-ders4) |
+| Gün 5 | Python'da Stringler | [🔗 ders4_strings.py](path-to-ders4_strings) |
+
+💡 **Not**: Daha fazla ders her gün ekleniyor 🌟, bu yüzden düzenli olarak geri dönüp güncellemeleri kontrol etmeyi unutmayın. Yeni içeriklerden haberdar olmak için bu depoyu **yıldızlamayı** ⭐ unutmayın!
+
+---
+
+## 📢 Kullanmanız Gereken Araçlar:
+
+Bu kursta, Python geliştirme deneyiminizi sorunsuz hale getirmek için **PyCharm**'ı öneriyoruz. Ancak, isterseniz **VSCode** veya başka bir kod düzenleyicisi ile de takip edebilirsiniz. İşte başlamak için ihtiyacınız olan araçlar:
+
+### 🛠️ Önerilen Araçlar:
+
+1. **PyCharm** (Bu kurs için önerilen IDE):
+   - PyCharm, Python geliştiricileri için özel olarak tasarlanmış güçlü bir IDE'dir. Otomatik tamamlama, hata ayıklama, sürüm kontrolü ve daha birçok kullanışlı özelliği vardır. Kurs boyunca projelerimizi PyCharm ile oluşturup çalıştıracağız.
+   - 🖥️ İndir: [PyCharm](https://www.jetbrains.com/pycharm/)
+
+2. **Anaconda** (Veri Bilimi için Python Dağıtımı):
+   - Anaconda, paket yönetimini ve dağıtımını kolaylaştırır. İçinde Python ve **NumPy**, **Pandas**, **Matplotlib** gibi yüzlerce veri bilimi kütüphanesi ile birlikte gelir. Çevreleri yönetmek ve veri bilimi kütüphaneleri ile çalışmak için kullanacağız.
+   - 🖥️ İndir: [Anaconda](https://www.anaconda.com/)
+
+3. **VSCode** (Opsiyonel):
+   - Daha hafif bir kod düzenleyiciyi tercih ediyorsanız, **Visual Studio Code** harika bir alternatiftir. Python eklentileri ile hızlı ve verimli bir geliştirme deneyimi sunar.
+   - 🖥️ İndir: [VSCode](https://code.visualstudio.com/)
+
+4. **GitHub**:
+   - Kurs boyunca GitHub'ı sürüm kontrolü ve kod paylaşımı için kullanacağız. Bir GitHub hesabınızın olduğundan ve depoları nasıl klonlayacağınızı, pull request gönderimlerini nasıl yapacağınızı bildiğinizden emin olun.
+   - 🖥️ Kayıt Ol: [GitHub](https://github.com/)
+
+---
+
+## 🧑‍🏫 Eğitmen Hakkında:
+Merhaba! 👋 Ben **Mehmet**, Python tutkunu ve veri bilimi eğitmeniyim. Bu kursu, sıfırdan Python öğrenmek isteyenlerden deneyimli programcılara kadar herkese yardımcı olmak amacıyla oluşturuyorum. Gerçek dünya örnekleri, pratik alıştırmalar ve kapsamlı açıklamalarla Python'da kendinize güvenerek kod yazmanızı sağlayacağım!
+
+Eğer takıldığınız bir yer olursa ya da sorularınız varsa, bana ulaşmaktan çekinmeyin! Yardımcı olmaktan her zaman memnuniyet duyarım. 😊
+
+**Bana Ulaşın**:
+- Instagram: [mhmt.x0](https://www.instagram.com/mhmt.x0)
+- E-posta: [mxhmetxd@gmail.com](mailto:mxhmetxd@gmail.com)
+- GitHub: [GitHub Profilim](https://github.com/mhmtx4)
+
+---
+
+## 📝 Kursun Hedefleri:
+Bu kursu takip ederek:
+- **Python temellerini** değişkenlerden fonksiyonlara ve döngülere kadar öğreneceksiniz.
+- **Veri yapıları** (listeler, sözlükler, demetler) üzerinde nasıl çalışılacağını öğrenip, bu yapılarla verileri yönetmeyi kavrayacaksınız.
+- **Temiz ve verimli kod** yazma becerilerini geliştireceksiniz.
+- **Python ile veri analizini** öğrenerek veriler üzerinde çalışma becerisi kazanacaksınız.
+- **Gerçek dünya projeleri** geliştirerek öğrenim sürecinizi pekiştireceksiniz.
+
+Kurs **kademeli** bir şekilde ilerliyor; yani, sıfırdan başlayarak daha ileri seviyelere doğru adım adım ilerleyeceğiz. Python'a yeni başlayanlar dersleri adım adım takip edebilirken, deneyimli olanlar daha zorlayıcı bölümlere geçebilirler.
+
+---
+
+## 💻 Başlamak İçin:
+1. **Bu depoyu klonlayın** veya ZIP dosyası olarak indirin.
+2. **PyCharm** ve **Anaconda** gibi gerekli yazılımları yükleyin.
+3. Dersleri sırayla takip edin veya sizi en çok ilgilendiren bölümlere dalın.
+4. Her dersin sonunda yer alan alıştırmalarla öğrendiklerinizi pekiştirin.
+5. Her gün eklenen yeni dersler için **düzenli olarak kontrol edin**! 📅
+
+```bash
+git clone https://github.com/mhmtx4/Python-Programming-for-Data-Science.git
+```
+
+---
+
+## 🎯 Gerçek Dünya Projeleri:
+Kurs boyunca, Python'un **veri bilimi** gücünü sergileyen **gerçek dünya projeleri** üzerinde çalışacağız. Bu projeler, portföyünüzü oluşturmanıza ve uygulamalı deneyim kazanmanıza yardımcı olacak.
+
+- **Proje 1**: COVID-19 Trendleri Üzerine Veri Analizi 📊
+- **Proje 2**: Hava Durumu Tahmin Uygulaması Geliştirme 🌦️
+- **Proje 3**: BeautifulSoup ile Web Kazıma 🕸️
+
+Bu projeler, Python becerilerinizi geliştirecek ve gerçek dünyada problem çözme yeteneklerinizi güçlendirecektir.
+
+---
+
+Bu kurs, **Python programlama** konusunda yetkinlik kazanmanız ve **veri bilimi** odaklı uygulamaları öğrenmeniz için bir fırs
+
+at! İster yeni başlıyor olun, ister mevcut becerilerinizi geliştirmek istiyor olun, burada herkes için bir şeyler var!
+
+Python uzmanı olma yolunda ilerlemeye hazırsanız, haydi başlayalım! 🎓
+
+---
 ---
 
