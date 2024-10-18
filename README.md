@@ -1,4 +1,3 @@
-
 # 🎉 Welcome to the "Python Programming for Data Science" Course!
 
 👋 Hello and welcome to the **Python programming course** with a focus on **Data Science**! This course is designed for both beginners and intermediate learners, allowing you to learn the fundamentals and advanced concepts of Python programming step by step.
@@ -26,10 +25,10 @@ This course is designed to be **long-term**, with new lessons being added daily.
 
 | Day | Lesson | Link |
 | --- | ------ | ---- |
-| Day 1 | Setting Up Python Environment | [🔗 ders1.py](pythonProject (TR)/1. Ders - Pythona Giriş/1. Ders - Genel Bilgiler (ANLATIM) .md) |
-| Day 2 | Python Basics | [🔗 ders2.py](path-to-ders2) |
-| Day 3 | Data Structures | [🔗 ders3.py](path-to-ders3) |
-| Day 4 | Working with Numbers | [🔗 ders4.py](path-to-ders4) |
+| Day 1 | Setting Up Python Environment | [🔗 Course 1 - General Information.py](https://github.com/mhmtx4/Python-Programming-for-Data-Science/blob/3108cd45b42b02dd2fb5566ad86b7935b6103549/pythonProject%20(TR)/1.%20Ders%20-%20Pythona%20Giri%C5%9F/1.%20Ders%20-%20Genel%20Bilgiler%20(ANLATIM)%20.md) |
+| Day 2 | Python Basics | [🔗 Course 2 - Things to Know.py](https://github.com/mhmtx4/Python-Programming-for-Data-Science/blob/78dfb565d058151e1015c6aba9a3eea4400d6d8a/pythonProject%20(TR)/2.%20Ders%20-%20Bilinmesi%20Gerekenler/2.%20Ders%20-%20Bilinmesi%20Gerekenler(ANLATIM).md) |
+| Day 3 | Data Structures | [🔗 Course 3 - Data Structures and Types.py](https://github.com/mhmtx4/Python-Programming-for-Data-Science/blob/78dfb565d058151e1015c6aba9a3eea4400d6d8a/pythonProject%20(TR)/3.%20Ders%20-%20Veri%20Yap%C4%B1lar%C4%B1%20ve%20Tipleri/3.%20Ders%20-%20Veri%20Yap%C4%B1lar%C4%B1%20ve%20Tipleri%20(ANLATIM).md) |
+| Day 4 | Working with Numbers | [🔗 Course 4 - Data Structures and Types.py](https://github.com/mhmtx4/Python-Programming-for-Data-Science/blob/78dfb565d058151e1015c6aba9a3eea4400d6d8a/pythonProject%20(TR)/4.%20Ders%20-%20Say%C4%B1lar%20ve%20%C4%B0%C5%9Flemler/4.%20Ders%20-%20Say%C4%B1lar%20ve%20%C4%B0%C5%9Flemler(ANLATIM).md) |
 | Day 5 | Strings in Python | [🔗 ders4_strings.py](path-to-ders4_strings) |
 
 💡 **Note**: More lessons are added daily 🌟, so be sure to check back regularly for updates. Don't forget to **star** ⭐ this repository to stay informed about new content!
@@ -137,11 +136,11 @@ Bu kurs, **uzun vadeli** olacak şekilde tasarlandı ve her gün yeni dersler ek
 
 | Gün | Ders | Bağlantı |
 | --- | ------ | ---- |
-| Gün 1 | Python Çalışma Ortamını Ayarlama | [🔗 ders1.py](pythonProject (TR)/1. Ders - Pythona Giriş/1. Ders - Genel Bilgiler (ANLATIM) .md) |
-| Gün 2 | Python Temelleri | [🔗 ders2.py](path-to-ders2) |
-| Gün 3 | Veri Yapıları | [🔗 ders3.py](path-to-ders3) |
-| Gün 4 | Sayılarla Çalışma | [🔗 ders4.py](path-to-ders4) |
-| Gün 5 | Python'da Stringler | [🔗 ders4_strings.py](path-to-ders4_strings) |
+| Gün 1 | Python Çalışma Ortamını Ayarlama | [🔗 1. Ders - Genel Bilgiler.py](https://github.com/mhmtx4/Python-Programming-for-Data-Science/blob/3108cd45b42b02dd2fb5566ad86b7935b6103549/pythonProject%20(TR)/1.%20Ders%20-%20Pythona%20Giri%C5%9F/1.%20Ders%20-%20Genel%20Bilgiler%20(ANLATIM)%20.md) |
+| Gün 2 | Python Temelleri | [🔗 2. Ders - Bilinmesi Gerekenler.py](https://github.com/mhmtx4/Python-Programming-for-Data-Science/blob/78dfb565d058151e1015c6aba9a3eea4400d6d8a/pythonProject%20(TR)/2.%20Ders%20-%20Bilinmesi%20Gerekenler/2.%20Ders%20-%20Bilinmesi%20Gerekenler(ANLATIM).md) |
+| Gün 3 | Veri Yapıları | [🔗 3. Ders - Veri Yapıları ve Tipleri.py](https://github.com/mhmtx4/Python-Programming-for-Data-Science/blob/78dfb565d058151e1015c6aba9a3eea4400d6d8a/pythonProject%20(TR)/3.%20Ders%20-%20Veri%20Yap%C4%B1lar%C4%B1%20ve%20Tipleri/3.%20Ders%20-%20Veri%20Yap%C4%B1lar%C4%B1%20ve%20Tipleri%20(ANLATIM).md) |
+| Gün 4 | Sayılarla Çalışma | [🔗 4. Ders - Sayılar ve İşlemler.py](https://github.com/mhmtx4/Python-Programming-for-Data-Science/blob/78dfb565d058151e1015c6aba9a3eea4400d6d8a/pythonProject%20(TR)/4.%20Ders%20-%20Say%C4%B1lar%20ve%20%C4%B0%C5%9Flemler/4.%20Ders%20-%20Say%C4%B1lar%20ve%20%C4%B0%C5%9Flemler(ANLATIM).md) |
+| Gün 5 | Python'da Stringler | [🔗 ders5.py](path-to-ders4_strings) |
 
 💡 **Not**: Daha fazla ders her gün ekleniyor 🌟, bu yüzden düzenli olarak geri dönüp güncellemeleri kontrol etmeyi unutmayın. Yeni içeriklerden haberdar olmak için bu depoyu **yıldızlamayı** ⭐ unutmayın!
 
