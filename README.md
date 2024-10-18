@@ -26,7 +26,7 @@ This course is designed to be **long-term**, with new lessons being added daily.
 
 | Day | Lesson | Link |
 | --- | ------ | ---- |
-| Day 1 | Setting Up Python Environment | [🔗 ders1.py](path-to-ders1) |
+| Day 1 | Setting Up Python Environment | [🔗 ders1.py](pythonProject (TR)/1. Ders - Pythona Giriş/1. Ders - Genel Bilgiler (ANLATIM) .md) |
 | Day 2 | Python Basics | [🔗 ders2.py](path-to-ders2) |
 | Day 3 | Data Structures | [🔗 ders3.py](path-to-ders3) |
 | Day 4 | Working with Numbers | [🔗 ders4.py](path-to-ders4) |
@@ -137,7 +137,7 @@ Bu kurs, **uzun vadeli** olacak şekilde tasarlandı ve her gün yeni dersler ek
 
 | Gün | Ders | Bağlantı |
 | --- | ------ | ---- |
-| Gün 1 | Python Çalışma Ortamını Ayarlama | [🔗 ders1.py](path-to-ders1) |
+| Gün 1 | Python Çalışma Ortamını Ayarlama | [🔗 ders1.py](pythonProject (TR)/1. Ders - Pythona Giriş/1. Ders - Genel Bilgiler (ANLATIM) .md) |
 | Gün 2 | Python Temelleri | [🔗 ders2.py](path-to-ders2) |
 | Gün 3 | Veri Yapıları | [🔗 ders3.py](path-to-ders3) |
 | Gün 4 | Sayılarla Çalışma | [🔗 ders4.py](path-to-ders4) |
